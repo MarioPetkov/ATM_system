@@ -117,52 +117,77 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;radbtn_german.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;bulgarian_flag.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;french_flag.Name" xml:space="preserve">
-    <value>french_flag</value>
-  </data>
-  <data name="&gt;&gt;radbtn_bulgarian.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btn_continue.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="french_flag.Location" type="System.Drawing.Point, System.Drawing">
-    <value>240, 251</value>
+  <data name="bulgarian_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAQsAAACgCAMAAAAsJ7n5AAAABGdBTUEAALGPC/xhBQAAABhQTFRF////
+        1iYSAJZuerSaAJBlAJpxbH1b4w0A1XawwwAAANJJREFUeF7t0MERg0AMADEfSaD/jnl5dtKDVIIGAAAA
+        AAAAAAAAAAAAAPj3Yc2XNRfLRVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzE
+        RVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERebHmps1D2sOy0VcxEVcxEVcxEVcxEVcxEVcxEVc
+        xEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxMU65wVc
+        Ybic1/HpogAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>667, 481</value>
+  <data name="german_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAQsAAACgCAMAAAAsJ7n5AAAABGdBTUEAALGPC/xhBQAAABVQTFRFAAAA
+        /84A3QAAuAAA4wAA5mgA/9sA3dGYFAAAANBJREFUeF7t0MERg0AMADFfgPRfMi/PDj1IJWgAAAAAAAAA
+        AAAAAAAAgK+LNTdrfiwXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREX
+        cREXcREXcREXcREXcREXcREXcREXcREXcREXcZF5WPNnzWG5iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4
+        iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4WOe8CbGzZbaS
+        hRUAAAAASUVORK5CYII=
+</value>
   </data>
-  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="english_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        n78igYBdZfDqbwAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="&gt;&gt;radbtn_french.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;french_flag.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btn_exit.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;radbtn_english.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;label_language.Name" xml:space="preserve">
-    <value>label_language</value>
+  <data name="french_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAPAAAACgCAMAAAAFBRFXAAAABGdBTUEAALGPC/xhBQAAAA9QTFRF////
+        ACZUzhEmAAA/ygAA1+QX/gAAAPRJREFUeF7tz0EBwCAMADHo5l8zIq7PxEHO3fWdZf/sEo6EK+FIOBKu
+        hCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FI
+        OBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6E
+        K+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4
+        Eo6EK+FIOBKuhCPhSLgSjoQj4Wo3PPMAvtCYgfhTA+gAAAAASUVORK5CYII=
+</value>
   </data>
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -832,452 +857,4 @@
         UPVRBYK8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/2Q==
 </value>
   </data>
-  <data name="radbtn_french.Text" xml:space="preserve">
-    <value>French</value>
-  </data>
-  <data name="&gt;&gt;radbtn_french.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;radbtn_german.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="radbtn_german.Text" xml:space="preserve">
-    <value>German</value>
-  </data>
-  <data name="&gt;&gt;btn_continue.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="french_flag.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 53</value>
-  </data>
-  <data name="&gt;&gt;radbtn_english.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="english_flag.Location" type="System.Drawing.Point, System.Drawing">
-    <value>240, 179</value>
-  </data>
-  <data name="btn_exit.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI Semibold, 14.25pt, style=Bold</value>
-  </data>
-  <data name="radbtn_french.Location" type="System.Drawing.Point, System.Drawing">
-    <value>349, 251</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="french_flag.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="radbtn_bulgarian.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 13.8pt</value>
-  </data>
-  <data name="radbtn_german.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 53</value>
-  </data>
-  <data name="&gt;&gt;radbtn_english.Name" xml:space="preserve">
-    <value>radbtn_english</value>
-  </data>
-  <data name="&gt;&gt;btn_exit.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="btn_exit.TabIndex" type="System.Int32, mscorlib">
-    <value>32</value>
-  </data>
-  <data name="&gt;&gt;radbtn_english.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 93</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Language_form</value>
-  </data>
-  <data name="label_language.Size" type="System.Drawing.Size, System.Drawing">
-    <value>185, 37</value>
-  </data>
-  <data name="german_flag.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="english_flag.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="radbtn_english.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 53</value>
-  </data>
-  <data name="&gt;&gt;english_flag.Name" xml:space="preserve">
-    <value>english_flag</value>
-  </data>
-  <data name="radbtn_english.TabIndex" type="System.Int32, mscorlib">
-    <value>38</value>
-  </data>
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="&gt;&gt;radbtn_bulgarian.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;radbtn_french.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="btn_exit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 53</value>
-  </data>
-  <data name="radbtn_english.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 13.8pt</value>
-  </data>
-  <data name="bulgarian_flag.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="&gt;&gt;radbtn_bulgarian.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radbtn_german.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="radbtn_french.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 53</value>
-  </data>
-  <data name="radbtn_english.Location" type="System.Drawing.Point, System.Drawing">
-    <value>349, 179</value>
-  </data>
-  <data name="label_language.Text" xml:space="preserve">
-    <value>ATM SYSTEM</value>
-  </data>
-  <data name="&gt;&gt;german_flag.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;bulgarian_flag.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="german_flag.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="&gt;&gt;german_flag.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;english_flag.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;radbtn_french.Name" xml:space="preserve">
-    <value>radbtn_french</value>
-  </data>
-  <data name="radbtn_french.TabIndex" type="System.Int32, mscorlib">
-    <value>35</value>
-  </data>
-  <data name="panel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="german_flag.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 53</value>
-  </data>
-  <data name="radbtn_bulgarian.Size" type="System.Drawing.Size, System.Drawing">
-    <value>140, 53</value>
-  </data>
-  <data name="&gt;&gt;german_flag.Name" xml:space="preserve">
-    <value>german_flag</value>
-  </data>
-  <data name="&gt;&gt;btn_continue.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;bulgarian_flag.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="german_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAQsAAACgCAMAAAAsJ7n5AAAABGdBTUEAALGPC/xhBQAAABVQTFRFAAAA
-        /84A3QAAuAAA4wAA5mgA/9sA3dGYFAAAANBJREFUeF7t0MERg0AMADFfgPRfMi/PDj1IJWgAAAAAAAAA
-        AAAAAAAAgK+LNTdrfiwXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREXcREX
-        cREXcREXcREXcREXcREXcREXcREXcREXcREXcZF5WPNnzWG5iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4
-        iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4iIu4WOe8CbGzZbaS
-        hRUAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="btn_exit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="label_language.Location" type="System.Drawing.Point, System.Drawing">
-    <value>270, 24</value>
-  </data>
-  <data name="btn_continue.Location" type="System.Drawing.Point, System.Drawing">
-    <value>184, 407</value>
-  </data>
-  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="btn_continue.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;btn_exit.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label_language.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 468</value>
-  </data>
-  <data name="label_language.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="btn_continue.TabIndex" type="System.Int32, mscorlib">
-    <value>33</value>
-  </data>
-  <data name="&gt;&gt;english_flag.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="english_flag.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="bulgarian_flag.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>667, 93</value>
-  </data>
-  <data name="bulgarian_flag.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="german_flag.Location" type="System.Drawing.Point, System.Drawing">
-    <value>240, 320</value>
-  </data>
-  <data name="bulgarian_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAQsAAACgCAMAAAAsJ7n5AAAABGdBTUEAALGPC/xhBQAAABhQTFRF////
-        1iYSAJZuerSaAJBlAJpxbH1b4w0A1XawwwAAANJJREFUeF7t0MERg0AMADEfSaD/jnl5dtKDVIIGAAAA
-        AAAAAAAAAAAAAPj3Yc2XNRfLRVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERVzE
-        RVzERVzERVzERVzERVzERVzERVzERVzERVzERVzERebHmps1D2sOy0VcxEVcxEVcxEVcxEVcxEVcxEVc
-        xEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxEVcxMU65wVc
-        Ybic1/HpogAAAABJRU5ErkJggg==
-</value>
-  </data>
-  <data name="&gt;&gt;french_flag.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn_continue.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 53</value>
-  </data>
-  <data name="german_flag.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="radbtn_bulgarian.Text" xml:space="preserve">
-    <value>Bulgarian</value>
-  </data>
-  <data name="english_flag.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 53</value>
-  </data>
-  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="panel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="radbtn_german.TabIndex" type="System.Int32, mscorlib">
-    <value>37</value>
-  </data>
-  <data name="&gt;&gt;bulgarian_flag.Name" xml:space="preserve">
-    <value>bulgarian_flag</value>
-  </data>
-  <data name="radbtn_german.Location" type="System.Drawing.Point, System.Drawing">
-    <value>349, 320</value>
-  </data>
-  <data name="french_flag.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="&gt;&gt;btn_continue.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btn_exit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>353, 407</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Language_form</value>
-  </data>
-  <data name="btn_exit.Text" xml:space="preserve">
-    <value>Exit</value>
-  </data>
-  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="btn_continue.Text" xml:space="preserve">
-    <value>Continue</value>
-  </data>
-  <data name="radbtn_bulgarian.Location" type="System.Drawing.Point, System.Drawing">
-    <value>345, 120</value>
-  </data>
-  <data name="&gt;&gt;label_language.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>667, 13</value>
-  </data>
-  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="french_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAPAAAACgCAMAAAAFBRFXAAAABGdBTUEAALGPC/xhBQAAAA9QTFRF////
-        ACZUzhEmAAA/ygAA1+QX/gAAAPRJREFUeF7tz0EBwCAMADHo5l8zIq7PxEHO3fWdZf/sEo6EK+FIOBKu
-        hCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FI
-        OBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6E
-        K+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4Eo6EK+FIOBKuhCPhSLgSjoQj4Uo4
-        Eo6EK+FIOBKuhCPhSLgSjoQj4Wo3PPMAvtCYgfhTA+gAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="bulgarian_flag.Size" type="System.Drawing.Size, System.Drawing">
-    <value>80, 53</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btn_continue.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI Semibold, 14.25pt, style=Bold</value>
-  </data>
-  <data name="pictureBox1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="english_flag.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="radbtn_english.Text" xml:space="preserve">
-    <value>English</value>
-  </data>
-  <data name="&gt;&gt;french_flag.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="label_language.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 15.75pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;btn_continue.Name" xml:space="preserve">
-    <value>btn_continue</value>
-  </data>
-  <data name="radbtn_french.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 13.8pt</value>
-  </data>
-  <data name="&gt;&gt;german_flag.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;radbtn_bulgarian.Name" xml:space="preserve">
-    <value>radbtn_bulgarian</value>
-  </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;radbtn_german.Name" xml:space="preserve">
-    <value>radbtn_german</value>
-  </data>
-  <data name="english_flag.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        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
-        n78igYBdZfDqbwAAAABJRU5ErkJggg==
-</value>
-  </data>
-  <data name="bulgarian_flag.Location" type="System.Drawing.Point, System.Drawing">
-    <value>240, 109</value>
-  </data>
-  <data name="&gt;&gt;english_flag.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 20</value>
-  </data>
-  <data name="french_flag.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
-    <value>GrowAndShrink</value>
-  </data>
-  <data name="label_language.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label_language.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="radbtn_bulgarian.TabIndex" type="System.Int32, mscorlib">
-    <value>36</value>
-  </data>
-  <data name="&gt;&gt;btn_exit.Name" xml:space="preserve">
-    <value>btn_exit</value>
-  </data>
-  <data name="radbtn_german.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 13.8pt</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
 </root>
